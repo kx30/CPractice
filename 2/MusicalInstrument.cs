@@ -22,9 +22,21 @@ public class MusicalInstrument {
         }
 
     public static List<MusicalInstrument> SortInstrument(List<MusicalInstrument> ms) {
-        ms.Sort(delegate (MusicalInstrument i1, MusicalInstrument i2) {
-            return i1.Cost.CompareTo(i2.Cost);
-        });
+        Console.WriteLine("\nВыберите 1 для сортировки по стоимости, 2 - для сортировки по производителю");
+        int sortColumn = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("sort column: " + sortColumn);
+        if (sortColumn == 1) { 
+            ms.Sort(delegate (MusicalInstrument i1, MusicalInstrument i2) {
+                return i1.Cost.CompareTo(i2.Cost);
+            });
+        } else if (sortColumn == 2) {
+            ms.Sort(delegate (MusicalInstrument i1, MusicalInstrument i2) {
+                return i1.ManufacturerCompany.CompareTo(i2.ManufacturerCompany);
+            });
+        } else {
+            Console.WriteLine("Error");
+        }
+
         return ms;
     }
 

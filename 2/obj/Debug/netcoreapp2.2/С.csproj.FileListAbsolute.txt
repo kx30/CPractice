@@ -9,3 +9,14 @@ C:\Users\Nikolay\С\obj\Debug\netcoreapp2.2\С.AssemblyInfoInputs.cache
 C:\Users\Nikolay\С\obj\Debug\netcoreapp2.2\С.AssemblyInfo.cs
 C:\Users\Nikolay\С\obj\Debug\netcoreapp2.2\С.dll
 C:\Users\Nikolay\С\obj\Debug\netcoreapp2.2\С.pdb
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\obj\Debug\netcoreapp2.2\С.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\obj\Debug\netcoreapp2.2\С.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\obj\Debug\netcoreapp2.2\С.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\obj\Debug\netcoreapp2.2\С.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\obj\Debug\netcoreapp2.2\С.dll
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\obj\Debug\netcoreapp2.2\С.pdb
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\bin\Debug\netcoreapp2.2\С.deps.json
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\bin\Debug\netcoreapp2.2\С.runtimeconfig.json
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\bin\Debug\netcoreapp2.2\С.runtimeconfig.dev.json
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\bin\Debug\netcoreapp2.2\С.dll
+C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\bin\Debug\netcoreapp2.2\С.pdb
