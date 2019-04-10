@@ -1,0 +1,14 @@
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\bin\Debug\netcoreapp2.2\9.deps.json
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\bin\Debug\netcoreapp2.2\9.runtimeconfig.json
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\bin\Debug\netcoreapp2.2\9.runtimeconfig.dev.json
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\bin\Debug\netcoreapp2.2\9.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\bin\Debug\netcoreapp2.2\9.pdb
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.RazorAssemblyInfo.cache
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.RazorAssemblyInfo.cs
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.RazorTargetAssemblyInfo.cache
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\9\9\9\obj\Debug\netcoreapp2.2\9.pdb
