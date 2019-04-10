@@ -20,3 +20,26 @@ C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫ�
 C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\bin\Debug\netcoreapp2.2\С.runtimeconfig.dev.json
 C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\bin\Debug\netcoreapp2.2\С.dll
 C:\Users\Nikolay\Desktop\УЧЕБНАЯ ПРАКТИКА ЫГЫГЫГЫГЫГЫГГЫГЫГЫЫГЫГЫГГЫГЫГЫГЫГЫ\C#\Практические\2\bin\Debug\netcoreapp2.2\С.pdb
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\obj\Debug\netcoreapp2.2\С.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\obj\Debug\netcoreapp2.2\С.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\obj\Debug\netcoreapp2.2\С.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\obj\Debug\netcoreapp2.2\С.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\obj\Debug\netcoreapp2.2\С.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\obj\Debug\netcoreapp2.2\С.pdb
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\С.deps.json
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\С.runtimeconfig.json
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\С.runtimeconfig.dev.json
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\С.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\С.pdb
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\Google.Protobuf.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySql.Data.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySql.Data.EntityFramework.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySql.Web.dll
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySql.Data.xml
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySql.Data.EntityFramework.xml
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\bin\Debug\netcoreapp2.2\MySql.Web.xml
+C:\Users\Nikolay\Desktop\УП\C#\Практические\2\obj\Debug\netcoreapp2.2\С.csproj.CopyComplete

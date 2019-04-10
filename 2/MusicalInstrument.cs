@@ -19,11 +19,12 @@ public class MusicalInstrument {
                 return this.Cost.CompareTo(p.Cost);
             else
                 throw new Exception("Невозможно сравнить два объекта");
-        }
+    }
 
     public static List<MusicalInstrument> SortInstrument(List<MusicalInstrument> ms) {
         Console.WriteLine("\nВыберите 1 для сортировки по стоимости, 2 - для сортировки по производителю");
         int sortColumn = Convert.ToInt32(Console.ReadLine());
+        
         Console.WriteLine("sort column: " + sortColumn);
         if (sortColumn == 1) { 
             ms.Sort(delegate (MusicalInstrument i1, MusicalInstrument i2) {
